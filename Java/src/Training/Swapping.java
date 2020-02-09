@@ -25,6 +25,7 @@ public class Swapping { /* Swapping using Third Variable */
 
 		System.out.println("Value of a is : " +a);
 		System.out.println("Value of b is : " +b);		
-		
+		S.close();
+		R.close();
 	}
 }
